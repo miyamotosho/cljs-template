@@ -1,0 +1,9 @@
+^{:watch-dirs ["src"]
+  :log-file   "target/figwheel.log"}
+{:main          "mylib.core"
+ :optimizations :none
+ :pretty-print  true
+ :source-map    true
+ :asset-path    "js/out"
+ :output-to     "target/public/js/app.js"
+ :output-dir    "target/public/js/out"}

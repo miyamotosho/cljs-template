@@ -1,0 +1,14 @@
+# Buffers
+*~
+*#
+
+# Builds
+/target
+/resources/public/js/
+
+# Clojure
+**/.cpcache
+**/.nrepl-port
+
+# OS X
+.DS_Store
