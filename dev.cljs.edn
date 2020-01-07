@@ -1,6 +1,6 @@
 ^{:watch-dirs ["src"]
   :log-file   "target/figwheel.log"}
-{:main          "mylib.core"
+{:main          "cljs-template.core"
  :optimizations :none
  :pretty-print  true
  :source-map    true
